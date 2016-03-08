@@ -1,0 +1,2 @@
+# szjcoin
+szjcoin
