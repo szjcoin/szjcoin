@@ -1,0 +1,9 @@
+Building szjcoin
+
+See doc/readme-qt.rst for instructions on building szjcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of szjcoin.
+
+See doc/build-*.txt for instructions on building szjcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of szjcoin.
